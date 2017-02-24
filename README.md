@@ -1,0 +1,1 @@
+# NetBeans custom exception reporter
